@@ -5,7 +5,7 @@ A C++ windows application for storing text, especifically aimed at copy pastas.
 ## TO-DO 
 - Add comments to help wtih understanding code <br>
 - Add search function. <br>
-- Add option for hotkeyng copy pastas. <br>
+- Add option for hotkeying copy pastas. <br>
 - Add option to replace matching strings in the app for other strings.<br>
 e.g.: "Hello my name is [$NAME]" and user specifies what "name" goes under "[$NAME]"
 
