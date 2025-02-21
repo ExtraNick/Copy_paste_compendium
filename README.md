@@ -1,4 +1,4 @@
-# Copy_paste_conpendium
+# Copy_paste_compendium
 A C++ windows application for storing text, especifically aimed at copy pastas.
 ## Requirements
 [wxWidgets](https://www.wxwidgets.org/) and [nlohmann/json](https://github.com/nlohmann/json)
