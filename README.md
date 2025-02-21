@@ -16,7 +16,7 @@ Button New: creates a new entry data in the JSON File and adds it to the screen.
 Button Save: stores the data typed in the text box in the JSON File. <br>
 Button Delete: Deletes the selected data, destroys all children(buttons) in the left panel sizer, and repopualtes it from scratch.<br>
 
-##Known Issues
+## Known Issues
 Certain characters are not recognized, such as "ç" and "ã".<br>
 Certain characters prevent the text content from being saved, mostly empty spaces in my experience. <br>
 
