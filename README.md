@@ -3,7 +3,7 @@ A C++ windows application for storing text, especifically aimed at copy pastas.
 ## Requirements
 [wxWidgets](https://www.wxwidgets.org/) and [nlohmann/json](https://github.com/nlohmann/json)
 ## TO-DO 
-- Add comments to help wtih understanding code <br>
+- Add comments to help wtih understanding code. <br>
 - Add search function. <br>
 - Add option for hotkeying copy pastas. <br>
 - Add option to replace matching strings in the app for other strings.<br>
