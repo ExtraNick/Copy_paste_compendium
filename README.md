@@ -10,9 +10,13 @@ A C++ windows application for storing text, especifically aimed at copy pastas.
 e.g.: "Hello my name is [$NAME]" and user specifies what "name" goes under "[$NAME]"
 
 ## How it works
-Upon start if no file data is found, in then creates one ("Copy_pasta.JSON") <br>
-The window application is launched at mouse position <br>
+Upon start if no file data is found, in then creates one ("Copy_pasta.JSON"). <br>
+The window application is launched at mouse position. <br>
 Button New: creates a new entry data in the JSON File and adds it to the screen.<br>
 Button Save: stores the data typed in the text box in the JSON File. <br>
 Button Delete: Deletes the selected data, destroys all children(buttons) in the left panel sizer, and repopualtes it from scratch.<br>
+
+##Known Issues
+Certain characters are not recognized, such as "ç" and "ã".<br>
+Certain characters prevent the text content from being saved, mostly empty spaces in my experience. <br>
 
